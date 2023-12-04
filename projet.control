@@ -1,0 +1,5 @@
+# projet extension
+comment = 'Projet - input/ouput functions for projet type'
+default_version = '1.0'
+module_pathname = '$libdir/projet'
+relocatable = true
